@@ -75,26 +75,3 @@ nav img{
 .text-box p{
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*Index
-
-min-height: 100vh =>=>          100% of viewport height 
-Position: relative =>=>         positioned relative to its normal position.
-background-size: cover;         cover tells the browser to make sure the image always covers the entire container, even if it has to stretch the image or cut a little bit off one of the edges.
-
-*/
